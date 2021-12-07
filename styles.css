@@ -1,0 +1,28 @@
+body{
+    text-align:left;
+}
+
+.container{
+    padding: 2vh;
+}
+
+.logo{
+    width: 1.5cm;
+    display: block;
+    margin: auto;
+}
+
+.main-banner{
+    height: 30vh;
+    width: 100vw;
+    background-image: url("img/beansmain.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main-header{
+    color: white;
+    margin-left: 40vw;
+}
+
